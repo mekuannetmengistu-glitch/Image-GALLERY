@@ -1,2 +1,2 @@
 # Image-GALLERY
-It is my calculator
+It is my image gallery
